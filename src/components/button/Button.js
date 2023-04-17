@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './Button.css'
+import './style.css'
 
 const Button = ({ type, onClick, children }) => {
   return (

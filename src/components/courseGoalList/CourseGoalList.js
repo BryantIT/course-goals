@@ -1,6 +1,6 @@
 import React from 'react'
 
-import CourseGoalItem from '../CourseGoalItem/CourseGoalItem'
+import CourseGoalItem from '../courseGoalItem/CourseGoalItem'
 import './style.css'
 
 const CourseGoalList = ({ items, onDeleteItem }) => {
